@@ -1,0 +1,20 @@
+h1{
+    color: rgb(40, 209, 48);
+}
+.carousel-item{
+    height: 600px;
+    padding: 5px;
+} 
+.carousel-item img{
+    height: 600px;
+    padding: 5px;
+}
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 2% 7%;
+  }
+  
+  .footer-icon {
+    margin: 3%;
+  }
